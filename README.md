@@ -1,2 +1,2 @@
 # Machine-Learning-Specialization
-Coursera Specialization on Machine Learning (3 courses)
+Coursera Specialization on ML (3 courses) + Udemy ML A-Z
